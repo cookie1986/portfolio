@@ -1,5 +1,5 @@
 # Data Scientist
-<small>Research Fellow in NLP & Machine Learning</small>
+<small>Python | Azure | SQL | Docker</small>
 
 ### Education
   - PhD Electrical Engineering, Electronics, and Computer Science | University of Liverpool, UK, 2023
@@ -31,6 +31,10 @@ Developed misinformation detection algorithm
 - Details
 
 ### Talks
-
+- Leeds
+- DATAMIND, Glasgow UK
+- BASS, St Andrews UK
+- AI Ethics and Society, Montreal
+- Interspeech, Czechia
 
 ### Publications
